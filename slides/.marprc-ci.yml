@@ -2,4 +2,4 @@ allowLocalFiles: true
 bespoke:
   progress: true
 html: true
-output: public/index.html
+output: ../public/
