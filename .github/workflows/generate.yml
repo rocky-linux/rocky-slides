@@ -47,8 +47,8 @@ jobs:
       - name: Save outputs
         uses: actions/upload-artifact@v2
         with:
-          name: output
-          path: ./output
+          name: public
+          path: ./public
       
       - name: Deploy to GitHub Pages
         id: deployment
